@@ -4,4 +4,4 @@
  * @author Panbo
  * @create_time 2024/1/1 15:42
  */
-package domain.aggregate_b.aggregate_a.event;
+package domain.aggregate_b.event;
